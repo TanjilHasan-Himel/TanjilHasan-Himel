@@ -1,4 +1,4 @@
-![Banner](https://your-banner-image-link)
+(https://your-banner-image-link)
 
 ## Hi, I'm Tanjil Hasan 👋
 ### Frontend Web Developer
