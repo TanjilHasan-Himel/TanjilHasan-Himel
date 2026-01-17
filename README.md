@@ -1,5 +1,5 @@
 ## Hi, I'm Tanjil Hasan 👋
-### Frontend Web Developer
+### Web Developer
 
 I am a passionate web developer and a CSE student from Bangladesh.  
 I enjoy building simple, responsive, and user-friendly websites.  
