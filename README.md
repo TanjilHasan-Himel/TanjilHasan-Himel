@@ -1,5 +1,3 @@
-(https://your-banner-image-link)
-
 ## Hi, I'm Tanjil Hasan 👋
 ### Frontend Web Developer
 
@@ -34,8 +32,3 @@ Currently, I am focusing on improving my skills by doing small projects.
 - LinkedIn: https://www.linkedin.com/in/tanjilhasanhimel/
 
 ---
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
