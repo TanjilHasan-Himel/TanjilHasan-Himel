@@ -30,15 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanjilHasan-Himel&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&text_color=FFFFFF" alt="Tanjil's GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanjilHasan-Himel&theme=radium&hide_border=true&background=0D1117&stroke=FFFFFF&currStreakNum=FFFFFF" alt="Tanjil's GitHub Streak" height="150" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="left">
