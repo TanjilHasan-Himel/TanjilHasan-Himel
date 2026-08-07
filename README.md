@@ -12,20 +12,26 @@
 - 💻 I love building clean, responsive, and user-friendly web applications.
 - 🌱 Currently exploring **Next.js** and modern frontend technologies.
 - 💡 Actively practicing problem-solving and open-source collaboration.
-- 💬 Ask me about **HTML, CSS, JavaScript, React, and Tailwind CSS**.
+- 🚀 **Supercharged by AI:** Coding faster and better with my AI pair programmer, **Antigravity**.
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind CSS, and Python**.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Frontend Development**  
+**Languages & Frontend Development**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs" alt="frontend skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,py" alt="skills" />
 </p>
 
 **Tools & Workflow**  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="tools" />
+</p>
+
+**AI & Assistant**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Pair_Programmer-Antigravity-8A2BE2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Antigravity AI" />
 </p>
 
 ---
