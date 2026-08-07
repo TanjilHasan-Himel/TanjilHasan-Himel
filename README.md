@@ -52,4 +52,8 @@
 
 <br/>
 
+<!-- Profile Visitor Counter & Antigravity Badge -->
+<div align="center">
 
+  <img src="https://img.shields.io/badge/AI_Assistant-Antigravity-8A2BE2?style=flat-square&logo=google-gemini&logoColor=white" alt="Antigravity AI" />
+</div>
