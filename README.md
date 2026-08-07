@@ -52,9 +52,4 @@
 
 <br/>
 
-<!-- Profile Visitor Counter & Antigravity Badge -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/TanjilHasan-Himel/count.svg" alt="Visitor Count" />
-  <br><br>
-  <img src="https://img.shields.io/badge/AI_Assistant-Antigravity-8A2BE2?style=flat-square&logo=google-gemini&logoColor=white" alt="Antigravity AI" />
-</div>
+
