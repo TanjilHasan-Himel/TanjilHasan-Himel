@@ -1,27 +1,28 @@
 <!-- Animated Wave Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Tanjil%20Hasan%20👋&fontSize=50&animation=twinkling&fontAlignY=38&desc=Product%20Engineer%20|%20Tech%20Communicator&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Tanjil%20Hasan&fontSize=50&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20|%20System%20Architecture%20|%20Agentic%20Workflows&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
 <!-- Animated Typing Text -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Building+Scalable+Digital+Products;Exploring+Loop+Engineering+&+AI;Bridging+Technology+with+Media" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=System+Architecture+&+Database+Routing;Loop+Engineering+&+AI+Agents;Building+Scalable+Products" alt="Typing SVG" />
 </div>
 
 <br/>
 
-### 👨‍💻 **A little bit about me**
-<blockquote>
-  🎓 I'm a final-year <b>Computer Science and Engineering (CSE)</b> student from Bangladesh 🇧🇩.<br>
-  🏛️ Currently developing my final-year academic project: a multi-tenant <b>Digital Library Assistant</b> focused on advanced system architecture and database routing.<br>
-  📱 Recently shipped <b>Audua Player</b>, a fully functional custom offline audio application.<br>
-  ⚙️ Exploring modern development workflows, including <b>Loop Engineering</b> and <b>AI Agentic Systems</b> to optimize software building.<br>
-  🎙️ Alongside tech, I am a professional Radio Jockey, blending strong communication skills with user-centric product design.
-</blockquote>
+### 👨‍💻 About Me
+Final-year CSE student at Varendra University. I focus on system architecture, database routing, and implementing AI-agentic workflows (Loop Engineering) to build scalable digital products. Alongside software development, I work as a professional Radio Jockey, bringing strong communication and management skills to technical projects.
 
 <br/>
 
-### 🛠️ **My Tech Stack & Tools**
+### 🚀 Shipped Projects
+
+*   **[Audia Player](https://github.com/TanjilHasan-Himel/app/releases/download/audio/Audiaplayer.apk)**: A fully custom offline audio application. *(Click to download APK)*
+*   **Digital Library Assistant (DLA)**: A multi-tenant academic library system featuring advanced database routing and automated checkout flows. *(Final Year Project)*
+
+<br/>
+
+### 🛠️ Tech Stack & Workflow
 
 <div align="center">
   <p><strong>Core Tech, Frameworks & Languages</strong></p>
@@ -31,12 +32,11 @@
   
   <p><strong>Tools, Architecture & AI Workflows</strong></p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="tools" />
-  <img src="https://skillicons.dev/icons?i=copilot" alt="copilot" />
 </div>
 
 <br/>
 
-### 🤝 **Let's Connect**
+### 🤝 Let's Connect
 
 <div align="center">
   <a href="https://github.com/TanjilHasan-Himel">
@@ -48,11 +48,4 @@
   <a href="https://tanjilhasanhimel.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-</div>
-
-<br/>
-
-<!-- Profile Visitor Counter & Antigravity Badge -->
-<div align="center">
-  <img src="https://img.shields.io/badge/AI_Workflow-Loop_Engineering-8A2BE2?style=flat-square&logo=google-gemini&logoColor=white" alt="Loop Engineering" />
 </div>
