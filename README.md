@@ -1,51 +1,60 @@
+<!-- Animated Wave Header Banner -->
 <div align="center">
-  <h1>Hi there, I'm Tanjil Hasan 👋</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Web+Developer;CSE+Student;Frontend+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Tanjil%20Hasan%20👋&fontSize=50&animation=twinkling&fontAlignY=38&desc=Web%20Developer%20|%20CSE%20Student&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
-<h3 align="center">A passionate web developer from Bangladesh 🇧🇩</h3>
+<!-- Animated Typing Text -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Building+Things+For+The+Web;Passionate+About+Frontend;Turning+Ideas+Into+Code" alt="Typing SVG" />
+</div>
 
-<br />
+<br/>
 
-### 👨‍💻 About Me
-- 🎓 I'm a **Computer Science and Engineering (CSE)** student.
-- 💻 I love building clean, responsive, and user-friendly web applications.
-- 🌱 Currently exploring **Next.js** and modern frontend technologies.
-- 💡 Actively practicing problem-solving and open-source collaboration.
-- 🚀 **Supercharged by AI:** Coding faster and better with my AI pair programmer, **Antigravity**.
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind CSS, and Python**.
+### 👨‍💻 **A little bit about me**
+<blockquote>
+  🎓 I'm a <b>Computer Science and Engineering (CSE)</b> student from Bangladesh 🇧🇩.<br>
+  💻 I love building clean, responsive, and user-friendly web applications.<br>
+  🌱 Currently leveling up my skills in <b>Next.js</b> and modern frontend tools.<br>
+  🚀 Coding faster and better with my AI pair programmer, <b>Antigravity</b>.<br>
+  💬 Ask me about: <b>HTML, CSS, JS, React, Tailwind, and Python.</b>
+</blockquote>
 
----
+<br/>
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ **My Tech Stack & Tools**
 
-**Languages & Frontend Development**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,py" alt="skills" />
-</p>
-
-**Tools & Workflow**  
-<p align="left">
+<div align="center">
+  <p><strong>Frontend & Languages</strong></p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,py,c" alt="skills" />
+  
+  <br><br>
+  
+  <p><strong>Tools, Workflow & AI</strong></p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="tools" />
-</p>
+  <img src="https://skillicons.dev/icons?i=copilot" alt="copilot" />
+</div>
 
-**AI & Assistant**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Pair_Programmer-Antigravity-8A2BE2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Antigravity AI" />
-</p>
+<br/>
 
----
+### 🤝 **Let's Connect**
 
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/TanjilHasan-Himel" target="_blank">
+<div align="center">
+  <a href="https://github.com/TanjilHasan-Himel">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/tanjilhasanhimel/" target="_blank">
+  <a href="https://www.linkedin.com/in/tanjilhasanhimel/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://tanjilhasanhimel.netlify.app/" target="_blank">
+  <a href="https://tanjilhasanhimel.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-</p>
+</div>
+
+<br/>
+
+<!-- Profile Visitor Counter & Antigravity Badge -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/TanjilHasan-Himel/count.svg" alt="Visitor Count" />
+  <br><br>
+  <img src="https://img.shields.io/badge/AI_Assistant-Antigravity-8A2BE2?style=flat-square&logo=google-gemini&logoColor=white" alt="Antigravity AI" />
+</div>
